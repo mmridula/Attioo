@@ -4,10 +4,6 @@ The landing page at Attioo is designed to promote Attio, a customizable and data
 # Deployed link : 
 https://attioo.vercel.app/
 
-# Figma: 
-https://www.figma.com/design/4T1MpexImPymvIl8WgRfuS/Attio---CRM-Landing-Page-%26-Mobile-Responsive-(Community)?node-id=0-1&node-type=canvas&t=HEmismHyP95BOjwM-0
-
-
 # Installation : 
 Install the npm packages & run
 ```bash
